@@ -2,7 +2,7 @@
 
 ## Kotlin Experience
 
-Este programa da DIO é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos em Kotlin em uma trilha imersiva, rápida e eficiente. O Kotlin Experience possui apenas 40 horas de atividades 100% voltadas para os desafios do mercado de trabalho. Kotlin é uma linguagem de programação mobile usada por mais de 60% dos profissionais, podendo ser usada em diferentes interfaces, permitindo um desenvolvimento prático para front e back-end. Abaixo estão as atividades correspondentes ao modulo 3 desta imersão, intitulado, Refinando Sua Técnica Com Desafios de Código em Kotlin.
+Este programa da DIO é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos em Kotlin em uma trilha imersiva, rápida e eficiente. O Kotlin Experience possui apenas 40 horas de atividades 100% voltadas para os desafios do mercado de trabalho. Kotlin é uma linguagem de programação mobile usada por mais de 60% dos profissionais, podendo ser usada em diferentes interfaces, permitindo um desenvolvimento prático para front e back-end. Abaixo estão as atividades correspondentes ao modulo 3 desta imersão, intitulado, *Refinando Sua Técnica Com Desafios de Código em Kotlin*.
 
 ### Desafio de código 1: Suas Primeiras Condições em Kotlin
 
